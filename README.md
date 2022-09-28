@@ -1,1 +1,1 @@
-# Rentalx-Node.JS
+# RentX-Node.JS
